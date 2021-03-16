@@ -2,10 +2,7 @@
 
 /**
  * @author Jordan Satterfield
- * January 28, 2021
- * CSCI333
- * Homework 2
- * MaxHeap implements a maxheap and all associated functions, including building the heap,
+ * MaxHeap class implements a maxheap and all associated functions, including building the heap,
  * maintaining the heap properties, and sorting the heap.
  */
 
