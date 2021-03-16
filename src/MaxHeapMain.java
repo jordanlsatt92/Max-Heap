@@ -2,10 +2,7 @@
 
 /**
  * @author Jordan Satterfield
- * January 28, 2021
- * CSCI333
- * Homework 2
- * MaxHeapMain demonstrates the functionality of the MaxHeap class.
+ * MaxHeapMain demonstrates the functionality of the MaxHeap class with different arrays of integers.
  */
 
 public class MaxHeapMain {
